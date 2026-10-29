@@ -3,7 +3,7 @@
 **Asignatura:** Desarrollo de Aplicaciones Web (IS093A)  
 **Universidad:** Universidad Nacional del Centro del Perú  
 **Facultad:** Ingeniería de Sistemas  
-**Integrantes:** [Tu Nombre] y [Nombre de tu compañero]  
+**Integrantes:** EDILSON ROBERTO CAMARGO ALVARADO  
 
 ---
 
